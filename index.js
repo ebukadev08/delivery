@@ -1,1 +1,1 @@
-alert("wellcome to Ebuka's website");
+alert("WELLCOME TO EBUKA'S DELIVERY WEBSITE");
